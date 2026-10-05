@@ -1,0 +1,28 @@
+D:\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.exe
+D:\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.deps.json
+D:\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.runtimeconfig.json
+D:\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.dll
+D:\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.pdb
+D:\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.AssemblyInfoInputs.cache
+D:\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.AssemblyInfo.cs
+D:\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.csproj.CoreCompileInputs.cache
+D:\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.dll
+D:\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\refint\M8.dll
+D:\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.pdb
+D:\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.genruntimeconfig.cache
+D:\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\ref\M8.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.exe
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.deps.json
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.runtimeconfig.json
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\bin\Debug\net10.0\M8.pdb
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.AssemblyInfoInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.AssemblyInfo.cs
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.csproj.CoreCompileInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\refint\M8.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.pdb
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\M8.genruntimeconfig.cache
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M8\obj\Debug\net10.0\ref\M8.dll

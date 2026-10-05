@@ -1,0 +1,7 @@
+C:\Users\Yagami Light\Downloads\repos\Classes SetGet\bin\Debug\Classes SetGet.exe.config
+C:\Users\Yagami Light\Downloads\repos\Classes SetGet\bin\Debug\Classes SetGet.exe
+C:\Users\Yagami Light\Downloads\repos\Classes SetGet\bin\Debug\Classes SetGet.pdb
+C:\Users\Yagami Light\Downloads\repos\Classes SetGet\obj\Debug\Classes SetGet.csproj.AssemblyReference.cache
+C:\Users\Yagami Light\Downloads\repos\Classes SetGet\obj\Debug\Classes SetGet.csproj.CoreCompileInputs.cache
+C:\Users\Yagami Light\Downloads\repos\Classes SetGet\obj\Debug\Classes SetGet.exe
+C:\Users\Yagami Light\Downloads\repos\Classes SetGet\obj\Debug\Classes SetGet.pdb

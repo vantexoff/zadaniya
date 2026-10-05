@@ -1,0 +1,14 @@
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\bin\Debug\net10.0\M3.exe
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\bin\Debug\net10.0\M3.deps.json
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\bin\Debug\net10.0\M3.runtimeconfig.json
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\bin\Debug\net10.0\M3.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\bin\Debug\net10.0\M3.pdb
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\obj\Debug\net10.0\M3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\obj\Debug\net10.0\M3.AssemblyInfoInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\obj\Debug\net10.0\M3.AssemblyInfo.cs
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\obj\Debug\net10.0\M3.csproj.CoreCompileInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\obj\Debug\net10.0\M3.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\obj\Debug\net10.0\refint\M3.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\obj\Debug\net10.0\M3.pdb
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\obj\Debug\net10.0\M3.genruntimeconfig.cache
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M3\obj\Debug\net10.0\ref\M3.dll

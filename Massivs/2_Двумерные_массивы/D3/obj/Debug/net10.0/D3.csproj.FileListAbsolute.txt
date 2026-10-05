@@ -1,0 +1,14 @@
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\bin\Debug\net10.0\D3.exe
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\bin\Debug\net10.0\D3.deps.json
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\bin\Debug\net10.0\D3.runtimeconfig.json
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\bin\Debug\net10.0\D3.dll
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\bin\Debug\net10.0\D3.pdb
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\obj\Debug\net10.0\D3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\obj\Debug\net10.0\D3.AssemblyInfoInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\obj\Debug\net10.0\D3.AssemblyInfo.cs
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\obj\Debug\net10.0\D3.csproj.CoreCompileInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\obj\Debug\net10.0\D3.dll
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\obj\Debug\net10.0\refint\D3.dll
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\obj\Debug\net10.0\D3.pdb
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\obj\Debug\net10.0\D3.genruntimeconfig.cache
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D3\obj\Debug\net10.0\ref\D3.dll

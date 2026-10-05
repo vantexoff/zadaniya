@@ -1,0 +1,7 @@
+C:\Users\Yagami Light\Downloads\repos\Rekursia\bin\Debug\Rekursia.exe.config
+C:\Users\Yagami Light\Downloads\repos\Rekursia\bin\Debug\Rekursia.exe
+C:\Users\Yagami Light\Downloads\repos\Rekursia\bin\Debug\Rekursia.pdb
+C:\Users\Yagami Light\Downloads\repos\Rekursia\obj\Debug\Rekursia.csproj.AssemblyReference.cache
+C:\Users\Yagami Light\Downloads\repos\Rekursia\obj\Debug\Rekursia.csproj.CoreCompileInputs.cache
+C:\Users\Yagami Light\Downloads\repos\Rekursia\obj\Debug\Rekursia.exe
+C:\Users\Yagami Light\Downloads\repos\Rekursia\obj\Debug\Rekursia.pdb

@@ -1,0 +1,28 @@
+D:\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.exe
+D:\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.deps.json
+D:\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.runtimeconfig.json
+D:\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.dll
+D:\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.pdb
+D:\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.AssemblyInfoInputs.cache
+D:\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.AssemblyInfo.cs
+D:\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.csproj.CoreCompileInputs.cache
+D:\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.dll
+D:\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\refint\M2.dll
+D:\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.pdb
+D:\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.genruntimeconfig.cache
+D:\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\ref\M2.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.exe
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.deps.json
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.runtimeconfig.json
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\bin\Debug\net10.0\M2.pdb
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.AssemblyInfoInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.AssemblyInfo.cs
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.csproj.CoreCompileInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\refint\M2.dll
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.pdb
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\M2.genruntimeconfig.cache
+C:\Users\Yagami Light\Desktop\Массивы\1_Одномерные_массивы\M2\obj\Debug\net10.0\ref\M2.dll

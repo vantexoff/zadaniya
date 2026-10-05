@@ -1,0 +1,28 @@
+D:\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.exe
+D:\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.deps.json
+D:\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.runtimeconfig.json
+D:\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.dll
+D:\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.pdb
+D:\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.AssemblyInfoInputs.cache
+D:\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.AssemblyInfo.cs
+D:\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.csproj.CoreCompileInputs.cache
+D:\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.dll
+D:\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\refint\D2.dll
+D:\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.pdb
+D:\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.genruntimeconfig.cache
+D:\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\ref\D2.dll
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.exe
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.deps.json
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.runtimeconfig.json
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.dll
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\bin\Debug\net10.0\D2.pdb
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.AssemblyInfoInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.AssemblyInfo.cs
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.csproj.CoreCompileInputs.cache
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.dll
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\refint\D2.dll
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.pdb
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\D2.genruntimeconfig.cache
+C:\Users\Yagami Light\Desktop\Массивы\2_Двумерные_массивы\D2\obj\Debug\net10.0\ref\D2.dll
