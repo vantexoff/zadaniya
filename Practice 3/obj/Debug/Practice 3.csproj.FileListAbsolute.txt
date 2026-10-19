@@ -1,0 +1,7 @@
+C:\Users\Yagami Light\Desktop\zadaniya\Practice 3\bin\Debug\Practice 3.exe.config
+C:\Users\Yagami Light\Desktop\zadaniya\Practice 3\bin\Debug\Practice 3.exe
+C:\Users\Yagami Light\Desktop\zadaniya\Practice 3\bin\Debug\Practice 3.pdb
+C:\Users\Yagami Light\Desktop\zadaniya\Practice 3\obj\Debug\Practice 3.csproj.AssemblyReference.cache
+C:\Users\Yagami Light\Desktop\zadaniya\Practice 3\obj\Debug\Practice 3.csproj.CoreCompileInputs.cache
+C:\Users\Yagami Light\Desktop\zadaniya\Practice 3\obj\Debug\Practice 3.exe
+C:\Users\Yagami Light\Desktop\zadaniya\Practice 3\obj\Debug\Practice 3.pdb
